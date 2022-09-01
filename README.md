@@ -20,7 +20,7 @@
 
 <h1>The course material is divided in the following sections:</h1>
 
-<h2><a href="Rangoonwala-Hw2">Section 7: Remote Sensing with big data</a></h2>
+<h2><a href="Rangoonwala-HW2">Will this link work? Who knows</a></h2>
 
 </body>
 </html>
